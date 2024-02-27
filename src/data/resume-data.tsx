@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "",
   avatarUrl: "https://avatars.githubusercontent.com/u/6003416?s=400&u=f01a5e32702b49cbefe0f28589b446cb1241f589&v=4",
   personalWebsiteUrl: "https://github.com/ledzepplin95",
   contact: {
@@ -61,15 +61,15 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Parabol",
-      link: "https://parabol.co",
+      company: "",
+      link: "",
       badges: ["Remote"],
-      title: "Senior Full Stack Developer",
-      logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
+      title: "",
+      logo: ,
+      start: "",
+      end: "",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "",
     },   
   ],
   skills: [
@@ -83,7 +83,7 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Consultly",
+      title: "",
       techStack: [
         "Side Project",
         "TypeScript",
@@ -92,11 +92,11 @@ export const RESUME_DATA = {
         "GraphQL",
         "WebRTC",
       ],
-      description: "A platform to build and grow your online business",
-      logo: ConsultlyLogo,
+      description: "A",
+      logo: ,
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "",
+        href: "",
       },
     },
   ],
