@@ -65,7 +65,7 @@ export const RESUME_DATA = {
       link: "",
       badges: ["Remote"],
       title: "",
-      logo: ,
+      logo: ParabolLogo,
       start: "",
       end: "",
       description:
@@ -93,7 +93,7 @@ export const RESUME_DATA = {
         "",
       ],
       description: "",
-      logo: ,
+      logo: ParabolLogo,
       link: {
         label: "",
         href: "",
