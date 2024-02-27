@@ -53,10 +53,10 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "China University of Mining Technlogy, Beijing",
+      degree: "Master's Degree in Structral Engineering",
+      start: "1999",
+      end: "2002",
     },
   ],
   work: [
@@ -105,13 +105,13 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "JavaScript",
-    "TypeScript",
-    "React/Next.js/Remix",
-    "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
+    "C++",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
   ],
   projects: [
     {
