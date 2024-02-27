@@ -92,7 +92,7 @@ export const RESUME_DATA = {
         "",
         "",
       ],
-      description: "A",
+      description: "",
       logo: ,
       link: {
         label: "",
