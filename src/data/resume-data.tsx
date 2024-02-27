@@ -74,7 +74,7 @@ export const RESUME_DATA = {
   ],
   skills: [
     "C++",
-    "",
+    "C#",
     "",
     "",
     "",
@@ -85,12 +85,12 @@ export const RESUME_DATA = {
     {
       title: "",
       techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
       ],
       description: "A",
       logo: ,
