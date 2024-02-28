@@ -91,7 +91,8 @@ export const RESUME_DATA = {
         "CMake",
         "STL",
         "FLTK",
-        "String matching/Similarity scoring"
+        "String matching/Similarity scoring",
+        "ASCII Art",
       ],
       description: "Online Simulator of Relion",
       logo: ParabolLogo,
