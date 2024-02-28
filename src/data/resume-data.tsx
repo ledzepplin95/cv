@@ -76,22 +76,22 @@ export const RESUME_DATA = {
     "C++",
     "C#",
     "Microsoft Visual Studio",
-    "Linux development",
-    "Cross platform porting",
+    "Linux Development",
+    "Cross Platform Porting",
     "CUDA",
-    "Performance optimization",
+    "Performance Optimization",
     "Debugging"
   ],
   projects: [
     {
-      title: "relion 3dem simulator",
+      title: "Relion(3dem) Simulator",
       techStack: [
         "C++/C",    
         "Python",
         "CMake",
         "STL",
         "FLTK",
-        "string matching/similarity scoring"
+        "String matching/Similarity scoring"
       ],
       description: "https://cryoedu.org/about/relion-simulator/",
       logo: ParabolLogo,
