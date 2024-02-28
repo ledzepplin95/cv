@@ -84,16 +84,16 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "",
+      title: "relion 3dem simulator",
       techStack: [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
+        "C++/C",    
+        "Python",
+        "CMake",
+        "STL",
+        "FLTK",
+        "string matching/similarity scoring"
       ],
-      description: "",
+      description: "https://cryoedu.org/about/relion-simulator/",
       logo: ParabolLogo,
       link: {
         label: "",
