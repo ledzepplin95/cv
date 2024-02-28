@@ -102,10 +102,10 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "",
-      techStack: ["", "", "", ""],
+      title: "M on Linux",
+      techStack: ["C#/.NET", "Tensorflow", "CMake", "Porting"],
       description:
-        "",
+        "M",
       logo: ParaboLogo,
       link: {
         label: "M",
