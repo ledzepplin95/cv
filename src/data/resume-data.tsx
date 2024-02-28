@@ -101,5 +101,16 @@ export const RESUME_DATA = {
         href: "https://cryoedu.org/about/relion-simulator/",
       },
     },
+    {
+      title: "",
+      techStack: ["", "", "", ""],
+      description:
+        "",
+      logo: ParaboLogo,
+      link: {
+        label: "M",
+        href: "http://www.warpem.com/warp/",
+      },
+    },
   ],
 } as const;
