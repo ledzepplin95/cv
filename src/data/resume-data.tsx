@@ -61,13 +61,13 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "",
-      link: "",
+      company: "Single Particle",
+      link: "https://www.singleparticle.com/",
       badges: ["Remote"],
-      title: "",
+      title: "Senior Software Engineer",
       logo: ParabolLogo,
-      start: "",
-      end: "",
+      start: "2019",
+      end: "to present",
       description:
         "",
     },   
@@ -75,11 +75,12 @@ export const RESUME_DATA = {
   skills: [
     "C++",
     "C#",
-    "",
-    "",
-    "",
-    "",
-    "",
+    "Microsoft Visual Studio",
+    "Linux development",
+    "Cross platform porting",
+    "CUDA",
+    "Performance optimization",
+    "Debugging"
   ],
   projects: [
     {
