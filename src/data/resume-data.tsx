@@ -93,11 +93,11 @@ export const RESUME_DATA = {
         "FLTK",
         "String matching/Similarity scoring"
       ],
-      description: "https://cryoedu.org/about/relion-simulator/",
+      description: "Online Simulator of Relion",
       logo: ParabolLogo,
       link: {
-        label: "",
-        href: "",
+        label: "CryoEdu",
+        href: "https://cryoedu.org/about/relion-simulator/",
       },
     },
   ],
