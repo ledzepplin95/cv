@@ -67,7 +67,7 @@ export const RESUME_DATA = {
       title: "Senior Software Engineer",
       logo: ParabolLogo,
       start: "2019",
-      end: "to present",
+      end: "present",
       description:
         "",
     },   
