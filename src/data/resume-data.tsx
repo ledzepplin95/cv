@@ -106,7 +106,7 @@ export const RESUME_DATA = {
       techStack: ["C#/.NET", "Tensorflow", "CMake", "Porting"],
       description:
         "M",
-      logo: ParaboLogo,
+      logo: ParabolLogo,
       link: {
         label: "M",
         href: "http://www.warpem.com/warp/",
