@@ -53,7 +53,7 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "China University of Mining Technlogy, Beijing",
+      school: "China University of Mining Technology, Beijing",
       degree: "Master's Degree in Structral Engineering",
       start: "1999",
       end: "2002",
